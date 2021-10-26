@@ -4,4 +4,4 @@
 uint16 CHAN_RELEASE=0
 uint16 CHAN_NOCHANGE=65535
 
-uint16[16] channels
+uint16[18] channels
